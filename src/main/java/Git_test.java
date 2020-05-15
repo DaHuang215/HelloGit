@@ -5,5 +5,6 @@ public class Git_test {
         System.out.println("测试3");
         System.out.println("主干添加1");
         System.out.println("分支更新1");
+        System.out.println("主干更新2");
     }
 }
